@@ -19,6 +19,10 @@
   border-color: #b62f26;
 }
 
+.boldy {
+  border-bottom: 5px dotted whitesmoke;
+}
+
 #social-buttons button {
   color: white;
 }
