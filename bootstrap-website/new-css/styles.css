@@ -204,7 +204,8 @@ li a:hover {
 
 .box3 {
   box-shadow: 0 0 3px rgba(0, 0, 0, .3);
-  position: relative
+  position: relative;
+  color: #88c425;
 }
 
 .box3 .box-content, .box3:after, .box3:before {
@@ -266,7 +267,7 @@ li a:hover {
 }
 
 .box3:hover .box-content {
-  box-shadow: 0 0 0 35px rgba(255, 255, 255, .9);
+  box-shadow: 0 0 0 35px rgba(255, 255, 255, );
   opacity: 1;
   transition: all .3s
 }
