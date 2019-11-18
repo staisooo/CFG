@@ -50,7 +50,8 @@ iframe{
   height: 50px;
   border-bottom: 100px;
   padding-bottom: 50px;
-  background: #C5CBE3;
+  /* background: #C5CBE3; */
+  background: rgba(255, 200, 284, 0.8);
 }
 
 footer h3 {
@@ -70,7 +71,8 @@ h2 {
 }
 
 #volunteer {
-  background: #76E255;
+  /* background: #76E255; */
+  background: #D9A973;
 }
 
 .table2 {
@@ -78,11 +80,16 @@ h2 {
   border-radius: 20px;
 }
 
+/* .mission {
+  background: rgba(255, 200, 284, 0.8); /* not sure abt this colour...lol 
+} */
+
 .mission {
-  background: whitesmoke; /* not sure abt this colour...lol */
+  border-bottom: 2px dotted whitesmoke;
+  border-top: 2px dotted whitesmoke;
 }
 
-.jumbotronn {
+p.jumbotronn {
   font-size: 300%;
 }
 
